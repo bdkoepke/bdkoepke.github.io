@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Finite Moment
+title: Finite Moment Ltd
 email: brandon@finitemoment.com
 description: >-
-  Welcome to the personal website of Brandon Koepke.
+    Welcome to Finite Moment Ltd.
 baseurl: ""
 url: ""
 twitter_username: bdkoepke
