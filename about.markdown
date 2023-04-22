@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Financial Analysis and Financial Technology Consulting.
 
 CFA Charterholder with a BSc in Computer Science Specializing in Software Engineering and a BComm Specializing in Finance.
 
-My resume is available [here]({{ site.url }}/assets/resume.pdf).
+The resume of Brandon Dale Koepke is available [here]({{ site.url }}/assets/resume.pdf).
